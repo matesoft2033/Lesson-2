@@ -1,0 +1,34 @@
+P {
+    color:white;
+	background-color:grey;
+	font-size:50px;
+}
+h1{
+	color:blue;
+	font-size:40px;
+}
+
+.names {
+	color:red;
+	text-decoration:underline;
+	font-size:42px;
+}
+ /* ეს სტილები შევქმენი კახაბერის სახელის გასასტილად */
+ #change-style {
+	text-decoration:underline;
+	text-decoration-color:hotpink;
+	color:blue;
+	font-size:70px;
+} 
+.change-style{
+	color:darkseagreen;
+}
+
+.aleko{
+	letter-spacing:10px;
+    
+
+
+
+
+}
